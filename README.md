@@ -19,3 +19,7 @@ The simulation was carried out in the **Vivado environment using behavioral simu
 
 The implementation of this basic ALU provides a clear understanding of how arithmetic and logical operations are performed inside digital processors. Designing such modules using Verilog helps students understand digital hardware behavior and prepares them for advanced topics such as **processor design, FPGA development, and digital system architecture**. Overall, this project successfully demonstrates the **design, implementation, and simulation of a simple ALU using Verilog and Vivado tools**.
 OUTPUT:
+<img width="1911" height="1074" alt="Image" src="https://github.com/user-attachments/assets/7f35159f-c5d8-44b6-94b8-ed079e730d4d" />
+<img width="1915" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b2a8b61d-31c5-48f8-b919-d593e6f085ef" />
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/b85e41b4-3d6c-4752-83b0-c51fcc99aa15" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f5b6337f-e167-4be6-ae22-1efb68a3a6b7" />
